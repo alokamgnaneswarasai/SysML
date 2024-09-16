@@ -26,7 +26,10 @@ To run our model , fire python3 DNN2Vec.py
 ## Contributing
 
 Gnaneswara Sai
+
 Naveen Kumar 
+
 Kiran  
+
 Gouri Shanker
 
